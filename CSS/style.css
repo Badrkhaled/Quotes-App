@@ -1,0 +1,6 @@
+button{
+    background-color: blue;
+    &:focus{
+        background-color: green;
+    }
+}
